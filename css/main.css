@@ -1,3 +1,28 @@
+.main-pic {
+    width: 480px;
+    height: 360px;
+}
+
 body {
     background-color: darkcyan;
+}
+
+.container {
+    background-color: bisque;
+}
+
+footer {
+    background-color: blueviolet;
+    color: bisque;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    display: -webkit-flex;
+    width: 100;
+}
+
+.flex-aside {
+    margin: 1em;
 }
